@@ -1,0 +1,214 @@
+Streaming transaction logs mentioning ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT. Confirmed commitment
+Transaction executed in slot 7:
+  Signature: 3SduMsjTLcPGiwpf6t2gDLLRgsFSEPDoFMATKZdykE2CC1evZ2LPspphpofDtCqgsbzuL6WMAC6rn3XcfE4GGyHa
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: InitVault
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: s0syob8c9Wvm2QWCSY/usKXTM0fAQ7cnm26PWFSm0ZmvgKqFzXNiqydNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQAA==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 8843 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 9:
+  Signature: 2zGVJW7mSNVree4AWLoCB2MML5ebTmR3S1BmAXwYU2qQa4cTEV4P75ThgzDuiNBWKD2YRNte39fc4Yz3zpJT2yLp
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: InitVault
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: s0syob8c9WtCKwMbQbVbzUb+KLih0yJ2H4m8ZKEX+dP2+rFSCieEywlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbTAQ==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 7343 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 11:
+  Signature: 4LWjJnVdcNeGURmKwWVwJsqj5aWUN7zG2qC33SkZfTyMLY3eiERTTudPbfk7Aujsgy162jDPwQfau5v1HWXmmYmD
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: InitVault
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: s0syob8c9Wt4HeTUSrBz0PjVGq8LVQDK2jp5Iq1+jHw3wh/jqMM9K8EMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9GAA==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 10343 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 13:
+  Signature: 5whrpzg7pMnnpYLZRd1ijwWjpMDyCJqVudoSosuux9x6EJU7JT8UbeZgWkt9mqoZ1gc55tAnNVmS9ynSZrLkNMr1
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5BAQg8AAAAAACdNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQ5tkFgkmP7rCl0zNHwEO3J5tuj1hUptGZr4Cqhc1zYqs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 7123 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 15:
+  Signature: 4oPNiHYVBQiohUBqNx6z82B5YrGQTSsDonM1s8Cx7DEaHRrowgUQM1zsgm5TSfRsbtMS4s8NNj5gYMeLF8DSrmBP
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: ToggleLock
+    Program data: wqK8/9ppZPlCKwMbQbVbzUb+KLih0yJ2H4m8ZKEX+dP2+rFSCieEywlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbTAA==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 3373 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 16:
+  Signature: 4A5LaCAMPQuZ5cbd7AiFRjoPYSQh867xtcyEfSvc4aB31vxQVzG65vdSN5d4Q4aP7FzvdmekDvgQJBaj7BnR988J
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5AgoQcAAAAAAAlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbTQisDG0G1W81G/ii4odMidh+JvGShF/nT9vqxUgonhMs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 5623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 17:
+  Signature: 3rZPzkebSNPLs57xkFSxoYYgQayXF4X57mHtwsEzEEoy7LzniYxZpMumsENS32qfyNBBdhKoVr9wxZpnyoVW69hz
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: ToggleLock
+    Program data: wqK8/9ppZPnm2QWCSY/usKXTM0fAQ7cnm26PWFSm0ZmvgKqFzXNiqydNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQAQ==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 4873 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 18:
+  Signature: 2DBekHzTsnmh6c6BREPTfthe2PzdTLhVXBnj1MrR7Kj4wsaiK2XjVGYKGLYb74VPjEGzNb2cb13zKxeN6zRZmHYY
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Withdraw
+    Program data: FgmFGqAsR8BADQMAAAAAAAlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbTQisDG0G1W81G/ii4odMidh+JvGShF/nT9vqxUgonhMs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 3901 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 20:
+  Signature: 3oyQ6uVWsP9XNA63v6G44dhRhz9tPoZJ7zwirya3yYmwsyBR7qR9bog6o1a3B43Ysmv1HiQB9xueKgpMQKb8w84z
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: ToggleLock
+    Program data: wqK8/9ppZPnm2QWCSY/usKXTM0fAQ7cnm26PWFSm0ZmvgKqFzXNiqydNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQAA==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 4873 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 21:
+  Signature: 2kmLSBb1zwBuPACmm6KaLnoBNxoCgpZTqAp99JhjoFnvgZbcD5xR8NY5EQt4tAZ8KUV5nXpdTUcomiLBprGcpbjS
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Withdraw
+    Program data: FgmFGqAsR8AgoQcAAAAAACdNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQ5tkFgkmP7rCl0zNHwEO3J5tuj1hUptGZr4Cqhc1zYqs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 5401 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 22:
+  Signature: 5pArc221JhwY1nqQ8oh1A8T1V8MpJHVbf7Tq9bpdtZ5e53jPBQzBCZ9g6TddNXbHACiJwZtf4ibjWnHGdP3SZ56B
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5CAhB4AAAAAAMEMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9GeB3k1Eqwc9D41RqvC1UAyto6eSKtfox8N8If46jDPSs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 8623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 23:
+  Signature: 4A8Cjf73eZrc4agRBmmsQnUSLsQHd1PhmNASswPGpD19z73MkzwVbp7n45EMX3bwBfL1XH4KySNu4R2aJNTPap9D
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5CghgEAAAAAAMEMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9GeB3k1Eqwc9D41RqvC1UAyto6eSKtfox8N8If46jDPSs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 8623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 24:
+  Signature: 2xdHgJdSr3zmqdtTYJyVbZYMboNwmFdUTWjBLvuv1GafrVoDbFxzcg7Rm5eLRpnvs4yCoGLWJ184akd96qP8vrmm
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5BADQMAAAAAAMEMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9GeB3k1Eqwc9D41RqvC1UAyto6eSKtfox8N8If46jDPSs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 8623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 25:
+  Signature: 9u8yZfMuVVGE715T1nshVgdFLGvMmDzPakKK9aCeNwgHEMUehED4XXvTNsiwYR4Bi84E4AicuMjHXBMXVadgHHt
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Withdraw
+    Program data: FgmFGqAsR8DwSQIAAAAAAMEMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9GeB3k1Eqwc9D41RqvC1UAyto6eSKtfox8N8If46jDPSs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 6901 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 26:
+  Signature: 4tyU7xBS7BTMXA5vJa5Waik47nNmK8CZS62GJ3MUafgptAPs9GAx7ZNEJimKhBb4mrMjqom8hrjoCFVnV4HDdp2Q
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5AgoQcAAAAAACdNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQQisDG0G1W81G/ii4odMidh+JvGShF/nT9vqxUgonhMs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 5623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 27:
+  Signature: jSLz5BEzmarExoof6ie43NCBwbEwNeZzSpAXFeFNEaYwQZMcYPSLyEhP7oYh5JW7v6rvPEfBNxg4v1GeiN4S11Q
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5DgkwQAAAAAAAlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbTeB3k1Eqwc9D41RqvC1UAyto6eSKtfox8N8If46jDPSs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 8623 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 28:
+  Signature: 4q7X58AopNAeBzVmY8bp2s1gECibeDNN29aUUDUCxmMJX3PGHrTrgPhVjBbzfTTebN2u6C1TALdwzGdeNkFdhpqC
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5CwcQsAAAAAAMEMNF8KUszXHwX9WHcINLnEiuPGfuye82DkJXZUEY9G5tkFgkmP7rCl0zNHwEO3J5tuj1hUptGZr4Cqhc1zYqs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 7123 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 29:
+  Signature: 3afpxDofiWrc7KHTQ2CajRX86n9F3D4iUNAanRU4kS3SAhB7C4CW5WWfc9RtP3nGWtYEaT9gjcMSptf3ENGNzyWz
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: ToggleLock
+    Program data: wqK8/9ppZPnm2QWCSY/usKXTM0fAQ7cnm26PWFSm0ZmvgKqFzXNiqydNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQAQ==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 4873 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 30:
+  Signature: 2ooawsDY7tH5wPGcrTfnQWqeEEmWagpsHZk4wiekGvmV2VQ1TucWd8hJ3eQS9CDhwaN31q2ebNi6DJvrw7e52s5K
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: ToggleLock
+    Program data: wqK8/9ppZPnm2QWCSY/usKXTM0fAQ7cnm26PWFSm0ZmvgKqFzXNiqydNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQAA==
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 4873 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 31:
+  Signature: 2dErEYZNUEeQkek5fFXxDTh3vrFML8Z2B8Qq5EPCRF3PnmDFkGS6DZ7GYVaCbk4zvbHMDwL5jNgjB2dj9UD2XYCi
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: ePg9Ux+Oa5BADQMAAAAAAAlGkIlgJIcuTB3iIoLUywr40Es5x12RuPOduTcnkkbT5tkFgkmP7rCl0zNHwEO3J5tuj1hUptGZr4Cqhc1zYqs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 7123 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
+Transaction executed in slot 32:
+  Signature: 5ZPDYiZp7tY197EcogH5z2PDcy3xwLQiRAJSrFwj1tb1P6oE6w5Mgs2Pnc965NJbuohjuczoUs6cpCSksmC7m5BL
+  Status: Ok
+  Log Messages:
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT invoke [1]
+    Program log: Instruction: Withdraw
+    Program data: FgmFGqAsR8CghgEAAAAAACdNC5XG7WXcYIaFavCA0hurxXNmldl4T35Fw7pWRQgQ5tkFgkmP7rCl0zNHwEO3J5tuj1hUptGZr4Cqhc1zYqs=
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT consumed 5401 of 200000 compute units
+    Program ARmiAGe6oAEq5BKguHydD3zt2n5PkV2Q5PLA1McuMkJT success
